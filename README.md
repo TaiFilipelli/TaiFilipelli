@@ -1,6 +1,14 @@
 # Hi! I am Taiel!
 ![Header](./header.png)
 
+### Soy un argentino apasionado por la tecnologia, el desarrollo web y los videojuegos. Llevo ya poco más de 2 años desarrollando múltiples proyectos y aprendiendo varias tecnologias. He dado clases de Excel en la municipalidad de mi ciudad. Actualmente, trabajo en un e-commerce para PadelPoint SN.
+
+## Puedes comunicarte conmigo aquí!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiel-filipelli/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taielfilipelli@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/x6wftk)
+
 ## Tecnologias que domino:
 
 ### Databases
