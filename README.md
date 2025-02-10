@@ -1,7 +1,7 @@
 # Hi! I am Taiel!
 ![Header](./header.png)
 
-### Soy un argentino apasionado por la tecnologia, el desarrollo web y los videojuegos. Llevo ya poco más de 2 años desarrollando múltiples proyectos y aprendiendo varias tecnologias. He dado clases de Excel en la municipalidad de mi ciudad. Actualmente, trabajo en un e-commerce para PadelPoint SN.
+### Soy un argentino apasionado por la tecnologia, el desarrollo web y los videojuegos. Llevo ya poco más de 2 años desarrollando múltiples proyectos y aprendiendo varias tecnologias. Mi experiencia varía entre la docencia en la Municipalidad de San Nicolas de los Arroyos y el desarrollo web para una tienda local.
 
 ## Puedes comunicarte conmigo aquí!
 
